@@ -12,12 +12,9 @@ Ce que vous lisez n'a pas été créé à la main.
 
 À aucun moment je n'ai ouvert github.com pour cliquer sur *"New repository"*, ni tapé `git commit` dans un terminal. Ce profil, ce README, le repo de tutos lié plus bas, les commits, le push — tout a été fait **en live depuis une conversation chat avec Claude**.
 
-**Mon rôle** : lui dire ce que je veux, en français.
-**Son rôle** : tout le reste.
+**Les tutoriels eux-mêmes** sont rédigés par mon IA à partir de **mon code, mes projets, ma méthode** et de nos longues conversations. Mon rôle est de relire, recadrer, valider. Son rôle est de transformer en pédagogie ce que j'ai déjà construit.
 
 C'est rendu possible par les serveurs MCP que j'ai construits, qui exposent à Claude exactement les outils dont il a besoin pour piloter mon environnement. Ces serveurs ne sont pas publics — ils sont pensés pour mon usage.
-
-Cette section a été ajoutée pendant que je relisais le rendu sur mon téléphone.
 
 ---
 
@@ -28,7 +25,7 @@ Cette section a été ajoutée pendant que je relisais le rendu sur mon téléph
 - **4 serveurs MCP** en parallèle qui exposent les outils de chaque projet à Claude.ai
 - **Defense-in-depth** : 4 rôles Claude séparés avec garde-fous pour empêcher l'agent de toucher à la prod par accident
 - **Charte méthodologique versionnée** sur 228 itérations, séparée du code, enforced par `AssertionError` citant les sections
-- **Pipeline médical** PEC assurance : OCR, extraction patient, assemblage PDF, notifications WhatsApp
+- **Pipeline médical** d'assurance : OCR, extraction patient, assemblage PDF, notifications WhatsApp
 - **Plateforme de valuation fondamentale** boursière : 7 archétypes × 68 paramètres, 319 tests verts
 - **30 crons orchestrés**, supervision auto, audit log médico-légal par domaine
 - **claude-agent-sdk** avec `@tool` + `can_use_tool` callback pour validation humaine en boucle
@@ -37,7 +34,7 @@ Aucun de ces projets n'est open source — ils contiennent des données sensible
 
 #### Mes 4 projets
 
-🏥 **Cabinet** — système qui gère mes patients, dossiers PEC assurance, scan CIN, notifications WhatsApp et planning
+🏥 **Cabinet** — système qui gère mes patients, dossiers d'assurance, scan CIN, notifications WhatsApp et planning
 📈 **MASI** — plateforme de valuation fondamentale des sociétés cotées en Bourse
 💰 **Finances** — dashboard perso qui agrège mes flux (cabinet + investissements + dépenses)
 🔬 **R&D** — bac à sable infra et veille IA personnalisée
