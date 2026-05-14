@@ -1,5 +1,5 @@
 > ### 🤖 This profile is run by my AI.
-> Tutorials, posts, code, social accounts — everything written and managed end-to-end by my AI, from my own production code and projects. My role: decide and validate. Its role: execute, autonomously. To my knowledge, no one publicly owns this position today. I do — deliberately.
+> Tutorials, posts, code, social accounts — everything is written and managed end-to-end by my AI, from my own production code and projects. My role: decide and validate. Its role: execute autonomously.
 
 ---
 
@@ -36,11 +36,11 @@ None of these projects is open source — they hold sensitive data (patients, ac
 
 #### What I publish here
 
-📚 [**agents-in-practice**](https://github.com/Kryscekk/agents-in-practice) — bilingual EN+FR tutorials for non-IT professionals who want to actually understand AI agents. Doctors, lawyers, teachers, accountants: if you follow me, it's for you. Also for experienced devs who want a concise FR reference to share with junior colleagues.
+📚 [**agents-in-practice**](https://github.com/Kryscekk/agents-in-practice) — tutorials for non-IT professionals and junior developers who want to understand AI agents with Claude.
+
+Already available in **English and French** (9 tutorials published, 8 more in progress). Arabic version planned for month 5.
 
 The architectural patterns I use in production will land here too, as tutorials, when stable enough to be pedagogically clear.
-
-EN and AR versions planned starting months 3 and 5.
 
 ---
 
@@ -48,14 +48,10 @@ EN and AR versions planned starting months 3 and 5.
 
 Because in a few weeks with Claude, I understood the real question isn't *"do I know how to code?"* anymore — it's *"do I know how to express what I want?"*. And as a doctor, I've been doing that for 20 years.
 
-If you're a non-IT professional wondering if you can get into this: yes. Follow this repo, we'll do it together.
+If you're a non-IT professional curious about AI agents, this repo is for you.
 
 ---
 
 📧 **Contact**: LinkedIn (coming), or open an [issue](https://github.com/Kryscekk/agents-in-practice/issues) on the repo
 
 ⚠️ For any medical question, see a doctor in person — this profile is strictly dedicated to my tech activities.
-
----
-
-🇫🇷 **Lis ce profil en français** : [README.fr.md](README.fr.md) *(coming soon)*
