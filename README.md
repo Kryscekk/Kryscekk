@@ -36,7 +36,7 @@ None of these projects is open source — they hold sensitive data (patients, ac
 
 #### What I publish here
 
-📚 [**agents-in-practice**](https://github.com/Kryscekk/agents-in-practice) — French-language tutorials for non-IT professionals who want to understand AI agents without prior CS background. Doctors, lawyers, teachers, accountants: if you follow me, it's for you. Also for experienced devs who want a concise FR reference to share with junior colleagues.
+📚 [**agents-in-practice**](https://github.com/Kryscekk/agents-in-practice) — bilingual EN+FR tutorials for non-IT professionals who want to actually understand AI agents. Doctors, lawyers, teachers, accountants: if you follow me, it's for you. Also for experienced devs who want a concise FR reference to share with junior colleagues.
 
 The architectural patterns I use in production will land here too, as tutorials, when stable enough to be pedagogically clear.
 
